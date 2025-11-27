@@ -21,7 +21,7 @@ First task as an Apexplanet intern, I created a basic webpage using HTML for str
      . Search Live Server
      . Install 
 
- 3️. Run the Project
+   3️. Run the Project
 
      . Right-click on index.html
      . Click Open with Live Server
