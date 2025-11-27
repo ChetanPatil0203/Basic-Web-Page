@@ -13,7 +13,7 @@ First task as an Apexplanet intern, I created a basic webpage using HTML for str
 
 1) Open Visual Studio Code
    
- . Click File → Open Folder and select your project folder.
+  . Click File → Open Folder and select your project folder.
 
 3) Install Live Server Extension
    
