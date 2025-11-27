@@ -11,11 +11,11 @@ First task as an Apexplanet intern, I created a basic webpage using HTML for str
 
 🚀 How to Run the Project
 
-1) Open Visual Studio Code
+1. Open Visual Studio Code
    
     . Click File → Open Folder and select your project folder.
 
-2) Install Live Server Extension
+2. Install Live Server Extension
    
      . Go to Extensions 
      . Search Live Server
@@ -23,5 +23,5 @@ First task as an Apexplanet intern, I created a basic webpage using HTML for str
 
 3️. Run the Project
 
-    . Right-click on index.html
-    . Click Open with Live Server
+     . Right-click on index.html
+     . Click Open with Live Server
