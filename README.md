@@ -15,11 +15,11 @@ First task as an Apexplanet intern, I created a basic webpage using HTML for str
    
     . Click File → Open Folder and select your project folder.
 
-3) Install Live Server Extension
+2) Install Live Server Extension
    
-   . Go to Extensions 
-   . Search Live Server
-   . Install 
+     . Go to Extensions 
+     . Search Live Server
+     . Install 
 
 3️) Run the Project
 
